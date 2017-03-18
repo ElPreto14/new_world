@@ -1,1 +1,1 @@
-# new_world
+Teenager trying out coding
